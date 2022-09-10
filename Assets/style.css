@@ -1,0 +1,46 @@
+body {
+  min-height: 3000px;
+  background-color: #e5e5e5;
+}
+
+.chat {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9;
+  font-size: 4em;
+  color: #25d366;
+  cursor: pointer;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e5e5e5;
+}
+
+#about {
+  background-color: #242424;
+  color: #e5e5e5;
+}
+
+.icon-service {
+  width: 90px;
+  height: 90px;
+  border: solid #242424 2px;
+  border-radius: 50%;
+}
+
+.content-subscribe {
+  background-color: #242424;
+  color: #e5e5e5;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #242424;
+  color: #e5e5e5;
+  font-size: 14px;
+}
